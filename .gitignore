@@ -13,6 +13,7 @@ dist-ssr
 *.local
 *.tsbuildinfo
 .vercel
+scratch/
 
 # Editor directories and files
 .vscode/*
